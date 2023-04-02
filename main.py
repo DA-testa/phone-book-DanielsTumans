@@ -1,3 +1,4 @@
+#DānielsTumans221RDB190
 n = int(input())
 phone_book = {}
 for i in range(n):
